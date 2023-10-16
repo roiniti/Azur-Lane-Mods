@@ -1,0 +1,1 @@
+pg.TipsMgr.GetInstance():ShowTips('Hello World!')
