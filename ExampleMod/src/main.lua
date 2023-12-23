@@ -1,0 +1,1 @@
+printMgr('Hello World!')
